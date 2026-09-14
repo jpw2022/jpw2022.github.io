@@ -12,7 +12,7 @@ I'm currently a fifth-year PhD candidate in Economics (Statistics) at Department
 
 I obtained my Bachelor’s degree in Statistics from School of Statistics, Beijing Normal University. My research interest includes nonparametric statistics and causal inference.
 
-You can find my CV  here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV  here: [Curriculum Vitae](../assets/CV_peiwen.pdf).
 
 [Email](mailto:XX@stu.pku.edu.cn): jpw2022@stu.pku.edu.cn 
 
