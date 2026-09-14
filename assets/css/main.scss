@@ -1,3 +1,9 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -24,14 +30,19 @@
     "layout/page",
     "layout/archive",
     "layout/sidebar",
-    "layout/json_cv"
-;
+    "layout/json_cv";
 
+/* 隐藏日夜主题切换按钮 */
 .theme-toggle,
 .dark-mode-toggle,
 .toggle-theme,
 [data-theme-toggle],
 #theme-toggle,
 button.theme-toggle {
+  display: none !important;
+}
+
+/* 隐藏底部版权和更新时间文字 */
+.page__footer-copyright {
   display: none !important;
 }
