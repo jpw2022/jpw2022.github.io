@@ -16,6 +16,6 @@ You can find my CV  here: [Curriculum Vitae](../assets/CV_peiwen.pdf).
 
 # Contact
 
-- [Email](mailto:XX@stu.pku.edu.cn): jpw2022@stu.pku.edu.cn 
+- [Email](mailto:jpw2022@stu.pku.edu.cn): jpw2022@stu.pku.edu.cn 
 <!-- Address: 777 Guoding Road, Shanghai University of Finance and Economics, Yangpu District, Shanghai, 200433, China. -->
 
