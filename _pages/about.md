@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a fifth-year PhD candidate in Economics (Statistics) at Department of Business Statistics and Econometrics, [Guanghua School of Management](https://www.gsm.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), under the supervision of Professor [Xiaojun Song](https://www.gsm.pku.edu.cn/faculty/sxj/). I obtained my Bachelor’s degree in Statistics from School of Statistics, Beijing Normal University in 2022. 
+I'm currently a fifth-year PhD candidate in Economics (Statistics) at Department of Business Statistics and Econometrics, [Guanghua School of Management](https://www.gsm.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by Professor [Xiaojun Song](https://www.gsm.pku.edu.cn/faculty/sxj/). I obtained my Bachelor’s degree in Statistics from School of Statistics, Beijing Normal University in 2022. 
 
 My research interest includes nonparametric hypothesis testing and causal inference.
 
