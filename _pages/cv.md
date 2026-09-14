@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+You can find my CV here: [CV_peiwen](../assets/CV_peiwen.pdf).
 {% include base_path %}
 
 # Education
