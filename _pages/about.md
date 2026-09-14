@@ -12,8 +12,6 @@ I'm currently a fifth-year PhD candidate in Economics (Statistics) at Department
 
 My research interest includes nonparametric hypothesis testing and causal inference.
 
-You can find my CV  here: [Curriculum Vitae](../assets/CV_peiwen.pdf).
-
 # Contact
 
 - [Email](mailto:jpw2022@stu.pku.edu.cn): jpw2022@stu.pku.edu.cn 
