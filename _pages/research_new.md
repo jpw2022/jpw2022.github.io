@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Reaserch"
+permalink: /research_new/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+
 ## Publications
 
 1. Peiwen Jia and Xiaojun Song (2026). ["Symmetrized smooth test for the equality of distributions"](https://www.sciencedirect.com/science/article/pii/S0165176526003988). **Economics Letters**, 113202.
