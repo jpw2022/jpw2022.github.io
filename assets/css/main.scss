@@ -20,8 +20,12 @@
     "layout/footer",
     "syntax",
 
-    "layout/forms";
-
+    "layout/forms",
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv"
+;
 
 .theme-toggle,
 .dark-mode-toggle,
@@ -31,9 +35,3 @@
 button.theme-toggle {
   display: none !important;
 }
-
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv"
-;
