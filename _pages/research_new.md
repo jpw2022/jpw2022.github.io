@@ -14,8 +14,8 @@ redirect_from:
 
 ## Working Papers
 
-1. "Two-sample smooth tests for location-scale transformations", with Xiaojun Song and Zhijie Xiao, 2026.
-2. "Smooth tests for the equality of conditional distributions", with Xiaojun Song and Zhijie Xiao, 2026.
-3. ["Data-driven smooth tests for normality in ANOVA when the number of groups is large"](https://arxiv.org/abs/2110.04849v4), with Xiaojun Song and Haoyu Wei, 2026.
-4. "Smooth tests for the equality of conditional distributions”, with Xiaojun Song and Zhijie Xiao, 2026.
-5. "On data-driven smooth tests for paired populations'', with O-Chia Chuang and Xiaojun Song, 2026.
+1. "Two-sample smooth tests for location-scale transformations", with Xiaojun Song and Zhijie Xiao. Revise and Resubmit at **Econometric Theory**.
+2. "Smooth tests for the equality of conditional distributions", with Xiaojun Song and Zhijie Xiao. Revise and Resubmit at **Journal of Business and Economic Statistics**.
+3. ["Data-driven smooth tests for normality in ANOVA when the number of groups is large"](https://arxiv.org/abs/2110.04849v4), with Xiaojun Song and Haoyu Wei. Revise and Resubmit at **Journal of Statistical Planning and Inference**.
+4. "Data-driven smooth test for the equality of distributions", with Xiaojun Song and Zhijie Xiao, 2026.
+5. "On data-driven smooth tests for paired populations", with O-Chia Chuang and Xiaojun Song, 2026.
