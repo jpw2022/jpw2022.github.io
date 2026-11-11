@@ -22,6 +22,7 @@ You can find my CV here: [CV_peiwen](../assets/CV_peiwen.pdf).
 - Causal Inference
 
 # Presentations
+- Statistics Seminar, School of Statistics, Beijing Normal University, 2026.11.
 - The 11th Meeting of Young Econometricans in Asia-Pacific Regions, Hangzhou, 2026.10.
 - The 3rd Joint Conference on Statistics and Data Science in China, Hangzhou, 2025.07.
 - International Chinese Statistical Association 2025 China Conference, Zhuhai, 2025.06.
